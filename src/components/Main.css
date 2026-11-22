@@ -1,5 +1,4 @@
 ﻿main
 {
-    min-height: calc(100vh - 330px - 64px);
-/*    min-height: calc(100vh - 130px - 32px);*/
+    min-height: calc(100vh - 59px - 206px - 64px);
 }
