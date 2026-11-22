@@ -1,0 +1,5 @@
+﻿main
+{
+    min-height: calc(100vh - 330px - 64px);
+/*    min-height: calc(100vh - 130px - 32px);*/
+}
